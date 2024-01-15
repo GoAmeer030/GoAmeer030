@@ -1,6 +1,6 @@
 # Hello Visitors <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-![Setup](https://media.licdn.com/dms/image/D4E16AQHjF4JM44YVdA/profile-displaybackgroundimage-shrink_350_1400/0/1679626542196?e=1700092800&v=beta&t=qdevnf6T1z9jyO7BWQ7adwt5MttFzzCeswJyMmUxovc)
+![Setup](https://media.licdn.com/dms/image/D4E16AQHjF4JM44YVdA/profile-displaybackgroundimage-shrink_350_1400/0/1679626543670?e=1710979200&v=beta&t=IMy25aIW4qZJZTTlro8e55ONpyy-UdPFi--9zVKpyVM)
 
 ## 💫 About Me:
 
